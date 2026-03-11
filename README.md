@@ -1,8 +1,8 @@
 # Universal Video Notes
 
 <p align="center">
-  <b>将 Bilibili 和 YouTube 视频转换为结构化 Obsidian Markdown 文档</b><br>
-  <b>Convert Bilibili & YouTube videos to structured Obsidian Markdown</b>
+  <b>将 Bilibili、YouTube 及 1700+ 视频网站内容转换为结构化 Obsidian Markdown 文档</b><br>
+  <b>Convert videos from Bilibili, YouTube & 1700+ sites to structured Obsidian Markdown</b>
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 
 ### 功能特性
 
-- ✅ 支持 Bilibili 和 YouTube 视频
+- ✅ 支持 Bilibili、YouTube 及 1700+ 视频网站（抖音、快手、西瓜视频、优酷、腾讯视频等）
 - ✅ 优先下载 CC 字幕，无字幕时自动本地 ASR 转录
 - ✅ 本地 SenseVoice-small 模型（无需云端 API）
 - ✅ 调用 DeepSeek 等模型生成结构化笔记
@@ -77,7 +77,7 @@ python -m src.cli.main "https://www.youtube.com/watch?v=VIDEO_ID"
 
 ### Features
 
-- ✅ Support Bilibili and YouTube videos
+- ✅ Support YouTube, Bilibili & 1700+ video sites (TikTok, Instagram, Twitter/X, Vimeo, Dailymotion, etc.)
 - ✅ Download CC subtitles first, fallback to local ASR transcription
 - ✅ Local SenseVoice-small model (no cloud API required)
 - ✅ Generate structured notes using DeepSeek LLM
