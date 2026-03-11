@@ -1,7 +1,7 @@
 # Universal Video Notes
 
 <p align="center">
-  <b>随时随地将 Bilibili、YouTube 及 1700+ 视频网站内容转换为结构化 Obsidian Markdown 文档</b><br>
+  <b>复制 粘贴 一键将 Bilibili、YouTube 及 1700+ 视频网站内容转换为结构化 Obsidian Markdown 笔记</b><br>
   <b>Convert videos from Bilibili, YouTube & 1700+ sites to structured Obsidian Markdown — anytime, anywhere</b>
 </p>
 
