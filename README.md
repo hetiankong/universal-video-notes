@@ -151,6 +151,26 @@ Transcribe https://b23.tv/xxxxx into notes
     └── utils/            # Utilities
 ```
 
+## 🙏 Acknowledgments / 致谢
+
+本项目基于以下优秀的开源项目构建：
+
+This project is built on top of the following excellent open-source projects:
+
+- [SenseVoice](https://github.com/FunAudioLLM/SenseVoice) - 本地语音识别 / Local ASR
+- [DeepSeek](https://deepseek.com/) - AI 大模型 / LLM
+- [yt-dlp](https://github.com/yt-dlp/yt-dlp) - 视频下载 / Video downloader
+- [Playwright](https://playwright.dev/) - 浏览器自动化 / Browser automation
+- [Pillow](https://python-pillow.org/) - 图像处理 / Image processing
+
+## 🤝 Contributing / 参与贡献
+
+> ⚠️ **Note / 注意**
+>
+> 这是初版发布，可能存在一些问题。欢迎在 GitHub 提交 Issue 或 PR 帮助改进！
+>
+> This is the initial release and may have some issues. Feel free to open an issue or submit a PR on GitHub!
+
 ## 📄 License / 许可证
 
 MIT License
