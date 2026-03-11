@@ -1,0 +1,17 @@
+yt-dlp
+requests
+openai
+python-dotenv
+
+# 图片生成依赖 (可选，生成图片预览时需要)
+playwright
+Pillow
+
+# 本地 ASR 依赖 (可选，使用本地 SenseVoice 时需要)
+funasr>=1.0.0
+modelscope
+# PyTorch 需要单独安装 CUDA 版本，例如：
+# pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
+
+# 安装 Playwright 浏览器（命令行运行）：
+# playwright install chromium
