@@ -1,6 +1,6 @@
 ---
-name: bilibili-to-obsidian
-description: Convert Bilibili and YouTube videos to structured Obsidian Markdown documents. Extracts metadata, downloads CC subtitles or performs ASR transcription with local SenseVoice model, and generates AI-powered summaries with YAML frontmatter.
+name: universal-video-notes
+description: Convert videos from Bilibili, YouTube and 1700+ supported sites to structured Obsidian Markdown documents. Extracts metadata, downloads CC subtitles or performs ASR transcription with local SenseVoice model, and generates AI-powered summaries with YAML frontmatter.
 metadata:
   openclaw:
     emoji: 📺
@@ -9,9 +9,9 @@ metadata:
     setup_check: "python src/utils/setup_check.py"
 ---
 
-# Bilibili to Obsidian
+# universal-video-notes
 
-将 **Bilibili** 和 **YouTube** 视频转换为结构化 Obsidian Markdown 文档的 OpenClaw Skill。
+使用 yt-dlp 将 **Bilibili** 和 **YouTube** 等 1700 多个视频网站的视频转换为结构化 Obsidian Markdown 文档的 OpenClaw Skill。
 
 ## 快速开始
 
